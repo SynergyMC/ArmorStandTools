@@ -6,3 +6,5 @@ ArmorStand.iml
 
 *.project
 .classpath
+*.iml
+target
